@@ -24,7 +24,7 @@ To add extra content at the end of a file, use the **`KmFileManipulation.put_con
 
 #### Parameters:
 
-- [`String`] **path** - Directory where the file will be created
+- [`String`] **path** - Directory where to find the file
 - [`String`] **filename** - File name and extension
 - [`String`] **content** - Content that must be added in the file
 
